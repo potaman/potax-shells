@@ -1,0 +1,3 @@
+ I am trying to study some plates and shells theory and numerics using Firedrake. There is Fenics shells, but my training has gotten me to dislike triangular elements, and there are certain design choices made by the Firedrake team that I really like (using the PETSC DMPlex mesh for example). Also less C++ than Fenics is always a good thing. 
+Mostly going to be Jupyter notebooks, and I will try and add the math in place as much as I can for reference. 
+Cheers
